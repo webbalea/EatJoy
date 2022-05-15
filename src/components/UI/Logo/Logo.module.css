@@ -1,0 +1,15 @@
+.logo {
+  font-family: "Rubik", sans-serif;
+  font-weight: 500;
+}
+.eat {
+  color: #009b17;
+}
+.joy {
+  color: #f1bd00;
+}
+.contained {
+  background-color: rgb(255, 255, 255);
+  border-radius: 10px;
+  padding: 5px 10px 5px 10px;
+}
